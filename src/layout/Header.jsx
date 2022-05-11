@@ -3,7 +3,7 @@ function Header() {
     <nav className='teal'>
       <div className='nav-wrapper'>
         <a href='#!' className='brand-logo'>
-          Search movies
+          Movies
         </a>
         {/* <ul id='nav-mobile' className='right hide-on-med-and-down'>
           <li>
